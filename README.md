@@ -5,10 +5,8 @@ Hardware Enthusiast & Embedded Systems Engineer. I build systems that **move, th
 ---
 
 ### 🛠 Tech Stack & Core Systems
-- **The Brain:** Embedded Systems (C/C++, Microcontrollers, RTOS)
-- **The Nervous System:** PCB Design & Signal Integrity (Altium, KiCad)
-- **The Muscle:** Power Electronics & High-Precision Drivetrains
-- **The Logic:** Control Systems & Sensor Fusion
+- **The Brain:** Embedded Systems (C / C++, Microcontrollers)
+- **The Nervous System:** PCB Design (Altium, KiCad)
 
 ---
 
