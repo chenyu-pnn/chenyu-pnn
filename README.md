@@ -19,10 +19,6 @@ Hardware Enthusiast & Embedded Systems Engineer. I build systems that **move, th
 
 ---
 
-### 📊 Engineering Metrics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenyu-pnn)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
----
-
 ### 🔋 Off-the-Clock (Interrupts)
 - **Active State:** Lifting & high-performance training.
 - **Navigation:** Exploring new cities and cultures.
