@@ -20,10 +20,7 @@ Hardware Enthusiast & Embedded Systems Engineer. I build systems that **move, th
 ---
 
 ### 📊 Engineering Metrics
-<p align="left">
-  <img src="github-readme-stats.vercel.app" alt="Top Langs" />
-</p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chenyu-pnn)](https://github.com/anuraghazra/github-readme-stats)>
 ---
 
 ### 🔋 Off-the-Clock (Interrupts)
@@ -34,8 +31,5 @@ Hardware Enthusiast & Embedded Systems Engineer. I build systems that **move, th
 ---
 
 ### 📬 Signal Input
-- [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/chenyu-pan/)) | [Email](mailto:chenyu.pan@uwaterloo.ca)
-
-![Your GitHub Trophy](github-profile-trophy.vercel.app)
-![Top Langs](github-readme-stats.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/chenyu-pan/) | [Email](mailto:chenyu.pan@uwaterloo.ca)
 
