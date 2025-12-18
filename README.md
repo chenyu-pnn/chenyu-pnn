@@ -1,16 +1,41 @@
-## Hi there 👋
+# ⚡ System Architecture: Chenyu
 
-<!--
-**chenyu-pnn/chenyu-pnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hardware Enthusiast & Embedded Systems Engineer. I build systems that **move, think, and solve.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Core Systems
+- **The Brain:** Embedded Systems (C/C++, Microcontrollers, RTOS)
+- **The Nervous System:** PCB Design & Signal Integrity (Altium, KiCad)
+- **The Muscle:** Power Electronics & High-Precision Drivetrains
+- **The Logic:** Control Systems & Sensor Fusion
+
+---
+
+### 🚀 Mission Control
+*   **Intersection:** Where electronics meet mobility and human performance.
+*   **Focus:** Redefining human capability through tech-integrated sports and transportation.
+*   **Philosophy:** Hands-on hardware is the only way to master the future.
+
+---
+
+### 📊 Engineering Metrics
+<p align="left">
+  <img src="github-readme-stats.vercel.app" alt="Top Langs" />
+</p>
+
+---
+
+### 🔋 Off-the-Clock (Interrupts)
+- **Active State:** Lifting & high-performance training.
+- **Navigation:** Exploring new cities and cultures.
+- **Monitoring:** Watching sports and analyzing performance mechanics.
+
+---
+
+### 📬 Signal Input
+- [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/chenyu-pan/)) | [Email](mailto:chenyu.pan@uwaterloo.ca)
+
+![Your GitHub Trophy](github-profile-trophy.vercel.app)
+![Top Langs](github-readme-stats.vercel.app)
+
